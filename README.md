@@ -1,2 +1,2 @@
-# AQUA-TRAVELS-WEB-PAGE
-contains only the front-end
+# Aqua-Travels
+This is a front-end developed Web Page.
